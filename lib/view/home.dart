@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:news_flow/model/newsArt.dart';
-import 'package:news_flow/view/controller/fetchNews.dart';
-import 'package:news_flow/view/widget/NewsContainer.dart';
+import 'package:news_flow_flutterapp/model/newsArt.dart';
+import 'package:news_flow_flutterapp/view/controller/fetchNews.dart';
+import 'package:news_flow_flutterapp/view/widget/NewsContainer.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

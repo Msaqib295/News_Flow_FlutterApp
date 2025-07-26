@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news_flow/news_webview.dart';
+import 'package:news_flow_flutterapp/news_webview.dart';
 
 class NewsContainer extends StatelessWidget {
   final String imgUrl;

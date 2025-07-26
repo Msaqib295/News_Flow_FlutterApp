@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:math';
 import 'package:http/http.dart';
-import 'package:news_flow/model/newsArt.dart';
+import 'package:news_flow_flutterapp/model/newsArt.dart';
 
 class FetchNews {
   static List sourcesID = [

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:news_flow/view/home.dart';
-import 'package:news_flow/view/widget/splashscreen.dart';
+import 'package:news_flow_flutterapp/view/home.dart';
+import 'package:news_flow_flutterapp/view/widget/splashscreen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

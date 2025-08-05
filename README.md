@@ -1,6 +1,8 @@
 # 📱 News Flow
+![License](https://img.shields.io/github/license/Msaqib295/News_Flow_FlutterApp)
 
-News Flow is a Flutter-based mobile application that delivers the latest news in a clean, scrollable interface. Each article displays an image, headline, and brief description — with a "Read More" button that opens the full article using a built-in WebView.
+
+News Flow is a Flutter-based mobile application that delivers the latest news in a clean, scrollable interface. Each article displays an image, headline, and brief description with a "Read More" button that opens the full article using a built-in WebView.
 
 ---
 
